@@ -96,7 +96,7 @@ background:#336;
 height:90px;
 }
 .logo-second {
-background:url('<?php echo ossn_site_url(); ?>themes/nextgen/images/logo_2.png') no-repeat;
+background:url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/logo_2.png') no-repeat;
 height:28px;
 width:28px;
 }
@@ -107,7 +107,7 @@ margin:0 auto;
 color:#fff;
 }
 .ossn-logo {
-background:url('<?php echo ossn_site_url(); ?>themes/nextgen/images/logo.png') repeat-x;
+background:url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/logo.png') repeat-x;
 height: 49px;
 width: 166px;
 
@@ -403,35 +403,35 @@ box-shadow: none;
 Icons
 *******/
 .ossn-icons-topbar-messages{
-background: url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/chat-26.png') no-repeat;
+background: url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/chat-26.png') no-repeat;
 width: 20px;
 height: 20px;
 }
 .ossn-icons-topbar-notification{
-background: url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/globe-26.png') no-repeat;
+background: url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/globe-26.png') no-repeat;
 width: 20px;
 height: 20px;
 }
 .ossn-icons-topbar-friends {
-background: url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/group-26.png') no-repeat;
+background: url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/group-26.png') no-repeat;
 width: 22px;
 height: 19px;
 }
 
 .ossn-icons-topbar-friends-new{
-background: url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/group-26.png') no-repeat;
+background: url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/group-26.png') no-repeat;
 width: 22px;
 height: 19px;
 }
 
 .ossn-icons-topbar-messages-new{
-background: url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/chat-26.png') no-repeat;
+background: url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/chat-26.png') no-repeat;
 width: 21px;
 height: 19px;
 }
 
 .ossn-icons-topbar-notifications-new{
-background: url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/globe-26.png') no-repeat;
+background: url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/globe-26.png') no-repeat;
 width: 19px;
 height: 20px;
 }
@@ -443,7 +443,7 @@ position: absolute;
 margin-top: 3px;
 }
 .ossn-loading {
-background:url('<?php echo ossn_site_url(); ?>themes/nextgen/images/loading.gif') no-repeat;
+background:url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/loading.gif') no-repeat;
 height:24px;
 width:24px;
 }
@@ -452,37 +452,37 @@ margin-left: 216px;
 margin-top: 37px;
 }
 .ossn-wall-friend {
-background:url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/wall/add_user-26.png') no-repeat;
+background:url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/wall/add_user-26.png') no-repeat;
 width:17px;
 height:17px;
 }
 .ossn-wall-status {
-background:url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/wall/pencil-26.png') no-repeat;
+background:url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/wall/pencil-26.png') no-repeat;
 width:17px;
 height:17px;
 }
 .ossn-wall-location {
-background:url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/wall/marker-26.png') no-repeat;
+background:url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/wall/marker-26.png') no-repeat;
 width:17px;
 height:17px;
 }
 .ossn-wall-photo {
-background:url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/wall/screenshot-26.png') no-repeat;
+background:url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/wall/screenshot-26.png') no-repeat;
 width:17px;
 height:17px;
 }
 .ossn-icon-access-friends {
-background:url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/access/friends.png') no-repeat;
+background:url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/access/friends.png') no-repeat;
 width:12px;
 height:12px;
 }
 .ossn-icon-access-public {
-background:url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/access/public.png') no-repeat;
+background:url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/access/public.png') no-repeat;
 width:12px;
 height:13px;
 }
 .ossn-icon-access-private {
-background:url('<?php echo ossn_site_url(); ?>themes/nextgen/images/icons/access/private.png') no-repeat;
+background:url('<?php echo ossn_site_url(); ?>themes/nextgen-master/images/icons/access/private.png') no-repeat;
 width:10px;
 height:12px;
 }
